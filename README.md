@@ -1,1 +1,1 @@
-A simple quiz game you can play at any given moment with themed question randomly picked. Why the name Astroquiz ? Well, it's because my collaborator for this project wanted to be an astronaut, so why not i guess! the is coded in 100% java.
+A simple quiz game you can play at any given moment with themed question randomly picked. Why the name Astroquiz ? Well, it's because my collaborator for this project wanted to be an astronaut, so why not i guess! the project is coded in 100% java.
