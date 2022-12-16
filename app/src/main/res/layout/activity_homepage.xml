@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:stretchColumns="0,1,2">
+
+
+        <!--First TableRow-->
+        <TableRow android:layout_weight="1.0">
+
+            <Button
+                style="?android:attr/buttonBarButtonStyle"
+                android:id="@+id/science"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/science" />
+
+            <Button
+                android:id="@+id/history"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/history" />
+
+            <Button
+                android:id="@+id/art"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/art" />
+
+        </TableRow>
+        <!--Second TableRow-->
+        <TableRow android:layout_weight="1.0">
+
+            <Button
+                android:id="@+id/astrology"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/astrology" />
+
+            <Button
+                android:id="@+id/geography"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/geography" />
+
+            <Button
+                android:id="@+id/math"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/math" />
+
+        </TableRow>
+
+        <!--Third TableRow-->
+        <TableRow android:layout_weight="1.0">
+
+            <Button
+                android:id="@+id/physics"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/physics" />
+
+            <Button
+                android:id="@+id/technology"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/technology" />
+
+            <Button
+                android:id="@+id/sports"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingVertical="30dp"
+                android:onClick="GotoQuestion"
+                android:text="@string/sports" />
+
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/purple_500"
+        android:text="@string/copyright"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="@color/cardview_light_background"
+        />
+
+
+
+</RelativeLayout>

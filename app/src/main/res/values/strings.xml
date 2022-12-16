@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Astroquiz</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="choose">Choose your subject</string>
+    <string name="copyright">Copyright &#169; AstroQuiz</string>
+    <string name="login">Login</string>
+    <string name="signin">Signin</string>
+    <string name="art">art</string>
+    <string name="science">science</string>
+    <string name="history">history</string>
+    <string name="astrology">astrology</string>
+    <string name="math">math</string>
+    <string name="technology">technology</string>
+    <string name="geography">geography</string>
+    <string name="physics">physics</string>
+    <string name="sports">sports</string>
+    <string name="hint1">Enter your username</string>
+    <string name="hint2">Enter your password</string>
+    <string name="insert_question">Insert question</string>
+    <string name="insert_answer">insert answer</string>
+    <string name="score">Score :  0</string>
+
+
+    <!--    Optional  -->
+
+    <string name="ihm_name">ListDisplay</string>
+    <string name="action_settings">Settings</string>
+    <string name="players">Players</string>
+    <string name="question1">Hello everybody</string>
+    <string name="question">Question</string>
+    <string name="replay">Replay</string>
+    <string name="signup">signup</string>
+
+
+</resources>

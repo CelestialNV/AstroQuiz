@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            android:textSize="20sp"
+            android:layout_margin="10sp"
+            android:layout_gravity="center" />
+
+        <EditText
+            android:id="@+id/User"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints="admin"
+            android:layout_marginHorizontal="50dp"
+            android:hint="@string/hint1"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:textColorHint="#757575"
+            tools:ignore="EditableContentDescCheck" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/password"
+            android:textSize="20sp"
+            android:layout_margin="10sp"
+            android:layout_gravity="center"
+            />
+
+        <EditText
+            android:id="@+id/mdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="50dp"
+            android:autofillHints="password"
+            android:inputType="textPassword"
+            android:hint="@string/hint2"
+            android:minHeight="48dp"
+            android:textColorHint="#757575" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="20dp"
+            android:layout_gravity="center">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="35dp"
+                android:id="@+id/signup"
+                android:onClick="SignUp"
+                android:text="@string/signup"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/login"
+                android:onClick="CheckLogin"
+                android:text="@string/login"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/purple_500"
+        android:text="@string/copyright"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="@color/cardview_light_background"
+        />
+
+
+
+
+
+
+</RelativeLayout>
