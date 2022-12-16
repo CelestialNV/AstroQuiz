@@ -39,339 +39,341 @@
     </string-array>
 
     <string-array name="astrology_question">
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>How many planets are in our solar system have rings?</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Which is the second planet from the sun?</item>
+        <item>Venus</item>
+        <item>Pluto</item>
+        <item>Neptune</item>
+        <item>Mars</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>
+Phobos and Diemos are the moons of which planet in our solar system?</item>
+        <item>Mars</item>
+        <item>Pluto</item>
+        <item>Neptune</item>
+        <item>Venus</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Martian relates to which planet in our solar system?</item>
+        <item>Mars</item>
+        <item>Uranus</item>
+        <item>Mercury</item>
+        <item>Pluto</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>What is the fifth planet from the sun?</item>
+        <item>Jupiter</item>
+        <item>Mars</item>
+        <item>Mercury</item>
+        <item>Saturn</item>
     </string-array>
 
 
     <string-array name="geography_question">
-        <item>This is the question.</item>
+        <item>Which country has the longest coastline in the world?</item>
+        <item>Canada</item>
+        <item>United States</item>
+        <item>France</item>
+        <item>Australia</item>
+
+        <item>What is the capital of Malta?</item>
+        <item>Valetta</item>
+        <item>Ferdinand</item>
+        <item>Invicta</item>
+        <item>Rohan</item>
+
+        <item>Which country is the newest in the world to be recognised by the UN?</item>
         <item>answer 1</item>
         <item>answer 2</item>
         <item>answer 3</item>
         <item>answer 4</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>In which UK city would you find the river Clyde?</item>
+        <item>South Sudan</item>
+        <item>Tunisia</item>
+        <item>Benin</item>
+        <item>Maldova</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
-
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
-
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>What is the oldest recorded town in the UK?</item>
+        <item>Glasgow</item>
+        <item>London</item>
+        <item>Birmingham</item>
+        <item>Bradford</item>
     </string-array>
 
 
     <string-array name="art_question">
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Which of these is a paint made from pigments and plastic?</item>
+        <item>Acrylic</item>
+        <item>Gesso</item>
+        <item>Acetone</item>
+        <item>Tempera</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Early photographers made their images on which of these materials?</item>
+        <item>Glass</item>
+        <item>Stone</item>
+        <item>Paper</item>
+        <item>Plastic</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>To which artistic movement does Paul Gauguin’s The Yellow Christ belong?</item>
+        <item>Cloisonnism</item>
+        <item>Impressionism</item>
+        <item>Bauhaus</item>
+        <item>Fauvism</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>What does the Venus of Brassempouy represent?</item>
+        <item>a woman’s head</item>
+        <item>an angel</item>
+        <item>a human figure</item>
+        <item>an old man</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Which architect founded the Bauhaus school of design?</item>
+        <item>Walter Gropius</item>
+        <item>Frank Gehry</item>
+        <item>I.M. Pei</item>
+        <item>Frank Lloyd Wright</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Who designed the Vietnam Veterans Memorial?</item>
+        <item>Maya Lin</item>
+        <item>Henri Matisse</item>
+        <item>Frank Gehry</item>
+        <item>Frank Lloyd</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>What did I.M. Pei design outside the Louvre, in Paris?</item>
+        <item>Pyramid</item>
+        <item>Ziggurat</item>
+        <item>Obelisk</item>
+        <item>Sarcophagus</item>
     </string-array>
 
     <string-array name="history_question">
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>When was William Shakespeare born?</item>
+        <item>1564</item>
+        <item>1574</item>
+        <item>1584</item>
+        <item>1554</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>The Merry Wives of ...</item>
+        <item>Windsor</item>
+        <item>Walberswick</item>
+        <item>Wycombe</item>
+        <item>Wandsworth</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Approximately how long ago was Stonehenge built?</item>
+        <item>5,000 years</item>
+        <item>7,000 years</item>
+        <item>10,000 years</item>
+        <item>3,000 years</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Who was English king at the time of the battle of Hastings?</item>
+        <item>Harold II</item>
+        <item>Harold III</item>
+        <item>Harold I</item>
+        <item>Edward the Confessor</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>When did the French revolution begin?</item>
+        <item>1789</item>
+        <item>1769</item>
+        <item>1739</item>
+        <item>1719</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Hereward the ...</item>
+        <item>Wake</item>
+        <item>Watchful</item>
+        <item>Wastrel</item>
+        <item>Wolf</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Only one British PM has been assassinated. Who was he?</item>
+        <item>Spencer Perceval</item>
+        <item>Neville Chamberlain</item>
+        <item>The Duke of Portland</item>
+        <item>Henry Addington</item>
     </string-array>
 
     <string-array name="math_question">
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>The average of first 50 natural numbers is ....</item>
+        <item>25.50</item>
+        <item>25.30</item>
+        <item>25</item>
+        <item>25.40</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>The number of 3-digit numbers divisible by 6, is....</item>
+        <item>150</item>
+        <item>160</item>
+        <item>151</item>
+        <item>149</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>What is 1004 divided by 2?</item>
+        <item>502</item>
+        <item>5002</item>
+        <item>520</item>
+        <item>52</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>The simplest form of 1.5 : 2.5 is</item>
+        <item>3 : 5</item>
+        <item>0.75 : 1.25</item>
+        <item>15 : 25</item>
+        <item> 6 : 10</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>106 × 106 – 94 × 94 = ?</item>
+        <item>2400</item>
+        <item>2004</item>
+        <item>1904</item>
+        <item>1906</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>A clock strikes once at 1 o’clock, twice at 2 o’clock, thrice at 3 o’clock and so on. How many times will it strike in 24 hours?</item>
+        <item>156</item>
+        <item>136</item>
+        <item>78</item>
+        <item>196</item>
     </string-array>
 
     <string-array name="physics_question">
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Electric current may be expressed in which one of the following units?</item>
+        <item>coulombs/second</item>
+        <item>joules/coulomb</item>
+        <item>coulombs/volt</item>
+        <item>ohms/second</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>The work done by a friction force is:</item>
+        <item>always negative</item>
+        <item>always positive</item>
+        <item>always zero</item>
+        <item>none</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>As defined in physics, work is: </item>
+        <item>a scalar quantity</item>
+        <item>always a positive quantity</item>
+        <item>a vector quantity</item>
+        <item>always zero</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>In physics, a radian per second is a unit of:</item>
+        <item>angular velocity</item>
+        <item>angular displacement</item>
+        <item>angular acceleration</item>
+        <item>angular momentum.</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>If the resultant force acting on a body of constant mass is zero, the body s momentum is:</item>
+        <item>constant</item>
+        <item>always zero</item>
+        <item>decreasing</item>
+        <item>increasing</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Which of the following scientists is responsible for the exclusion
+principle which states that two objects may NOT occupy the same space at the same time?</item>
+        <item>Pauli</item>
+        <item>Teller</item>
+        <item>Bohr</item>
+        <item>Heisenberg</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>The force acting between two point charges can be computed using which of the following laws?</item>
+        <item>Ampere Law</item>
+        <item>Ohm Law</item>
+        <item>Coulomb Law</item>
+        <item>Newton Second Law</item>
     </string-array>
 
     <string-array name="technology_question">
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>In which decade was the American Institute of Electrical Engineers (AIEE) founded?</item>
+        <item>1880s</item>
+        <item>1850s</item>
+        <item>1930s</item>
+        <item>1950s</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>What is part of a database that holds only one type of information?</item>
+        <item>field</item>
+        <item>record</item>
+        <item>report</item>
+        <item>file</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>OS computer abbreviation usually means ?</item>
+        <item>Operating System</item>
+        <item>Order of Significance</item>
+        <item>Optical Sensor</item>
+        <item>Open Software</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>In which decade with the first transatlantic radio broadcast occur?</item>
+        <item>1900s</item>
+        <item>1870s</item>
+        <item>1860s</item>
+        <item>1850s</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>.MOV extension refers usually to what kind of file?</item>
+        <item>Movie</item>
+        <item>Audio</item>
+        <item>Office</item>
+        <item>Image</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Which is a type of Electrically-Erasable Programmable Read-Only Memory?</item>
+        <item>Flash</item>
+        <item>Flange</item>
+        <item>Fury</item>
+        <item>FRAM</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?</item>
+        <item>Alan Turing</item>
+        <item>Jeff Bezos</item>
+        <item>George Boole</item>
+        <item>Charles Babbage</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Made from a variety of materials, such as carbon, which inhibits the flow of current...?</item>
+        <item>Resistor</item>
+        <item>Inductor</item>
+        <item>Choke</item>
+        <item>Capacitor</item>
     </string-array>
 
     <string-array name="sports_question">
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>When was the first common wealth game held ?</item>
+        <item>1930</item>
+        <item>1931</item>
+        <item>1938</item>
+        <item>1948</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>2018 FIFA World Cup was help in ...</item>
+        <item>russia</item>
+        <item>rome</item>
+        <item>japan</item>
+        <item>qatar</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>In which sport is the player called pugilist ?</item>
+        <item>boxing</item>
+        <item>sprinting</item>
+        <item>javelin throw</item>
+        <item>wrestling</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Where did the game of chess originate ?</item>
+        <item>india</item>
+        <item>persia</item>
+        <item>arabia</item>
+        <item>europe</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>the term "butterfly stroke" is used in which sport ?</item>
+        <item>swimming</item>
+        <item>tennis</item>
+        <item>boxing</item>
+        <item>volleyball</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>The term "Beamer" is associated with ?</item>
+        <item>cricket</item>
+        <item>hockey</item>
+        <item>chess</item>
+        <item>football</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>Thomas cup is related to ...</item>
+        <item>badminton</item>
+        <item>basketball</item>
+        <item>cricket</item>
+        <item>baseball</item>
 
-        <item>This is the question.</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>The number of players in each side in Water Polo is ...</item>
+        <item>7</item>
+        <item>6</item>
+        <item>8</item>
+        <item>9</item>
     </string-array>
 
 </resources>
