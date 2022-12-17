@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="science_question">
-        <item>How many bones are in the human body ?</item>
-        <item>206</item>
-        <item>202</item>
-        <item>196</item>
-        <item>192</item>
 
         <item>The concept of gravity was discovered by which famous physicist ?</item>
         <item>Isaac Newton</item>
@@ -51,8 +46,7 @@
         <item>Neptune</item>
         <item>Mars</item>
 
-        <item>
-Phobos and Diemos are the moons of which planet in our solar system?</item>
+        <item>Phobos and Diemos are the moons of which planet in our solar system?</item>
         <item>Mars</item>
         <item>Pluto</item>
         <item>Neptune</item>
@@ -85,13 +79,13 @@ Phobos and Diemos are the moons of which planet in our solar system?</item>
         <item>Invicta</item>
         <item>Rohan</item>
 
-        <item>Which country is the newest in the world to be recognised by the UN?</item>
-        <item>answer 1</item>
-        <item>answer 2</item>
-        <item>answer 3</item>
-        <item>answer 4</item>
+        <item>In which US state can you find the city of Chicago?</item>
+        <item>Illinois</item>
+        <item>Missouri</item>
+        <item>Arizona</item>
+        <item>Mississippi</item>
 
-        <item>In which UK city would you find the river Clyde?</item>
+        <item>Which country is the newest in the world to be recognised by the UN?</item>
         <item>South Sudan</item>
         <item>Tunisia</item>
         <item>Benin</item>
@@ -124,23 +118,11 @@ Phobos and Diemos are the moons of which planet in our solar system?</item>
         <item>Bauhaus</item>
         <item>Fauvism</item>
 
-        <item>What does the Venus of Brassempouy represent?</item>
-        <item>a woman’s head</item>
-        <item>an angel</item>
-        <item>a human figure</item>
-        <item>an old man</item>
-
         <item>Which architect founded the Bauhaus school of design?</item>
         <item>Walter Gropius</item>
         <item>Frank Gehry</item>
         <item>I.M. Pei</item>
         <item>Frank Lloyd Wright</item>
-
-        <item>Who designed the Vietnam Veterans Memorial?</item>
-        <item>Maya Lin</item>
-        <item>Henri Matisse</item>
-        <item>Frank Gehry</item>
-        <item>Frank Lloyd</item>
 
         <item>What did I.M. Pei design outside the Louvre, in Paris?</item>
         <item>Pyramid</item>
@@ -179,18 +161,6 @@ Phobos and Diemos are the moons of which planet in our solar system?</item>
         <item>1769</item>
         <item>1739</item>
         <item>1719</item>
-
-        <item>Hereward the ...</item>
-        <item>Wake</item>
-        <item>Watchful</item>
-        <item>Wastrel</item>
-        <item>Wolf</item>
-
-        <item>Only one British PM has been assassinated. Who was he?</item>
-        <item>Spencer Perceval</item>
-        <item>Neville Chamberlain</item>
-        <item>The Duke of Portland</item>
-        <item>Henry Addington</item>
     </string-array>
 
     <string-array name="math_question">
@@ -211,12 +181,6 @@ Phobos and Diemos are the moons of which planet in our solar system?</item>
         <item>5002</item>
         <item>520</item>
         <item>52</item>
-
-        <item>The simplest form of 1.5 : 2.5 is</item>
-        <item>3 : 5</item>
-        <item>0.75 : 1.25</item>
-        <item>15 : 25</item>
-        <item> 6 : 10</item>
 
         <item>106 × 106 – 94 × 94 = ?</item>
         <item>2400</item>
@@ -262,26 +226,9 @@ Phobos and Diemos are the moons of which planet in our solar system?</item>
         <item>decreasing</item>
         <item>increasing</item>
 
-        <item>Which of the following scientists is responsible for the exclusion
-principle which states that two objects may NOT occupy the same space at the same time?</item>
-        <item>Pauli</item>
-        <item>Teller</item>
-        <item>Bohr</item>
-        <item>Heisenberg</item>
-
-        <item>The force acting between two point charges can be computed using which of the following laws?</item>
-        <item>Ampere Law</item>
-        <item>Ohm Law</item>
-        <item>Coulomb Law</item>
-        <item>Newton Second Law</item>
     </string-array>
 
     <string-array name="technology_question">
-        <item>In which decade was the American Institute of Electrical Engineers (AIEE) founded?</item>
-        <item>1880s</item>
-        <item>1850s</item>
-        <item>1930s</item>
-        <item>1950s</item>
 
         <item>What is part of a database that holds only one type of information?</item>
         <item>field</item>
@@ -295,11 +242,6 @@ principle which states that two objects may NOT occupy the same space at the sam
         <item>Optical Sensor</item>
         <item>Open Software</item>
 
-        <item>In which decade with the first transatlantic radio broadcast occur?</item>
-        <item>1900s</item>
-        <item>1870s</item>
-        <item>1860s</item>
-        <item>1850s</item>
 
         <item>.MOV extension refers usually to what kind of file?</item>
         <item>Movie</item>
@@ -312,12 +254,6 @@ principle which states that two objects may NOT occupy the same space at the sam
         <item>Flange</item>
         <item>Fury</item>
         <item>FRAM</item>
-
-        <item>Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?</item>
-        <item>Alan Turing</item>
-        <item>Jeff Bezos</item>
-        <item>George Boole</item>
-        <item>Charles Babbage</item>
 
         <item>Made from a variety of materials, such as carbon, which inhibits the flow of current...?</item>
         <item>Resistor</item>
@@ -333,7 +269,7 @@ principle which states that two objects may NOT occupy the same space at the sam
         <item>1938</item>
         <item>1948</item>
 
-        <item>2018 FIFA World Cup was help in ...</item>
+        <item>2018 FIFA World Cup was held in ...</item>
         <item>russia</item>
         <item>rome</item>
         <item>japan</item>
@@ -345,29 +281,11 @@ principle which states that two objects may NOT occupy the same space at the sam
         <item>javelin throw</item>
         <item>wrestling</item>
 
-        <item>Where did the game of chess originate ?</item>
-        <item>india</item>
-        <item>persia</item>
-        <item>arabia</item>
-        <item>europe</item>
-
         <item>the term "butterfly stroke" is used in which sport ?</item>
         <item>swimming</item>
         <item>tennis</item>
         <item>boxing</item>
         <item>volleyball</item>
-
-        <item>The term "Beamer" is associated with ?</item>
-        <item>cricket</item>
-        <item>hockey</item>
-        <item>chess</item>
-        <item>football</item>
-
-        <item>Thomas cup is related to ...</item>
-        <item>badminton</item>
-        <item>basketball</item>
-        <item>cricket</item>
-        <item>baseball</item>
 
         <item>The number of players in each side in Water Polo is ...</item>
         <item>7</item>

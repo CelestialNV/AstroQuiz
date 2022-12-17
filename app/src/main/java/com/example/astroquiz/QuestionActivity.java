@@ -18,6 +18,7 @@ public class QuestionActivity extends AppCompatActivity {
     public Button answer_2;
     public Button answer_3;
     public Button answer_4;
+    int random_question = new Random().nextInt(5)*5;
 
     static public int answered = 0;
 
@@ -99,7 +100,7 @@ public class QuestionActivity extends AppCompatActivity {
 
         //setting the text for the question field.
 
-        this.question.setText(data[0]);
+        this.question.setText(data[random_question]);
 
         //randomizing the right answer. Every new occurrence of the same question will have different
         //answer placements.
@@ -128,13 +129,13 @@ public class QuestionActivity extends AppCompatActivity {
 
         //setting up text answers
 
-        Right_answer.setText(data[1]);
+        Right_answer.setText(data[random_question+1]);
 
-        Wrong_answer_1.setText(data[2]);
+        Wrong_answer_1.setText(data[random_question+2]);
 
-        Wrong_answer_2.setText(data[3]);
+        Wrong_answer_2.setText(data[random_question+3]);
 
-        Wrong_answer_3.setText(data[4]);
+        Wrong_answer_3.setText(data[random_question+4]);
 
         //setting up the method for the right answer Button
 
