@@ -31,6 +31,19 @@ public class GameOverActivity extends AppCompatActivity {
     //Replay method. Simply creates a new HomePage Activity.
 
     public void replay(View view){
+
+        //On replay all the buttons are set to unclicked and the score and GameOver conditions are reset
+        HomepageActivity.ScienceButton.setButtonClicked(false);
+        HomepageActivity.PhysicsButton.setButtonClicked(false);
+        HomepageActivity.ArtButton.setButtonClicked(false);
+        HomepageActivity.AstrologyButton.setButtonClicked(false);
+        HomepageActivity.HistoryButton.setButtonClicked(false);
+        HomepageActivity.SportsButton.setButtonClicked(false);
+        HomepageActivity.TechnologyButton.setButtonClicked(false);
+        HomepageActivity.MathButton.setButtonClicked(false);
+        HomepageActivity.GeographyButton.setButtonClicked(false);
+
+        //creating a new intent to HomePage activity
         Intent i = new Intent(getApplicationContext(), HomepageActivity.class);
         startActivity(i);
         finish();//Closing the active GameOverActivity, so the user can't go back to the GameOverActivity

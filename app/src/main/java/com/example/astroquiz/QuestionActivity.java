@@ -63,30 +63,39 @@ public class QuestionActivity extends AppCompatActivity {
         switch (HomepageActivity.ClickedButton.getText().toString()){
             case "science":
                 data = res.getStringArray(R.array.science_question);
+                HomepageActivity.ScienceButton.setButtonClicked(true);
                 break;
             case "astrology":
                 data = res.getStringArray(R.array.astrology_question);
+                HomepageActivity.AstrologyButton.setButtonClicked(true);
                 break;
             case "art":
                 data = res.getStringArray(R.array.art_question);
+                HomepageActivity.ArtButton.setButtonClicked(true);
                 break;
             case "geography":
                 data = res.getStringArray(R.array.geography_question);
+                HomepageActivity.GeographyButton.setButtonClicked(true);
                 break;
             case "math":
                 data = res.getStringArray(R.array.math_question);
+                HomepageActivity.MathButton.setButtonClicked(true);
                 break;
             case "physics":
                 data = res.getStringArray(R.array.physics_question);
+                HomepageActivity.PhysicsButton.setButtonClicked(true);
                 break;
             case "sports":
                 data = res.getStringArray(R.array.sports_question);
+                HomepageActivity.SportsButton.setButtonClicked(true);
                 break;
             case "history":
                 data = res.getStringArray(R.array.history_question);
+                HomepageActivity.HistoryButton.setButtonClicked(true);
                 break;
             case "technology":
                 data = res.getStringArray(R.array.technology_question);
+                HomepageActivity.TechnologyButton.setButtonClicked(true);
                 break;
             default:
                 break;
@@ -143,6 +152,7 @@ public class QuestionActivity extends AppCompatActivity {
             HomepageActivity.ClickedButton.setBackgroundColor(Color.parseColor("#228B22"));
             HomepageActivity.new_score += 100;
             answered++;
+            manage(HomepageActivity.ClickedButton.getText().toString(),"#228B22" );
             CheckGameOver();
             finish();
         });
@@ -153,6 +163,7 @@ public class QuestionActivity extends AppCompatActivity {
             HomepageActivity.ClickedButton.setBackgroundColor(Color.parseColor("#bb2222"));
             HomepageActivity.new_score -= 100;
             answered++;
+            manage(HomepageActivity.ClickedButton.getText().toString(),"#bb2222" );
             CheckGameOver();
             finish();
         });
@@ -163,6 +174,7 @@ public class QuestionActivity extends AppCompatActivity {
             HomepageActivity.ClickedButton.setBackgroundColor(Color.parseColor("#bb2222"));
             HomepageActivity.new_score -= 100;
             answered++;
+            manage(HomepageActivity.ClickedButton.getText().toString(),"#bb2222" );
             CheckGameOver();
             finish();
         });
@@ -173,6 +185,7 @@ public class QuestionActivity extends AppCompatActivity {
             HomepageActivity.ClickedButton.setBackgroundColor(Color.parseColor("#bb2222"));
             HomepageActivity.new_score -= 100;
             answered++;
+            manage(HomepageActivity.ClickedButton.getText().toString(),"#bb2222" );
             CheckGameOver();
             finish();
         });
@@ -190,6 +203,41 @@ public class QuestionActivity extends AppCompatActivity {
             Intent i = new Intent(getApplicationContext(), GameOverActivity.class);
 
             startActivity(i);
+        }
+    }
+
+    public void manage(String ClickedButtonName,String color ){
+
+        switch (ClickedButtonName){
+            case "science":
+                HomepageActivity.ScienceButton.setButtonColor(color);
+                break;
+            case "physics":
+                HomepageActivity.PhysicsButton.setButtonColor(color);
+                break;
+            case "art":
+                HomepageActivity.ArtButton.setButtonColor(color);
+                break;
+            case "sports":
+                HomepageActivity.SportsButton.setButtonColor(color);
+                break;
+            case "astrology":
+                HomepageActivity.AstrologyButton.setButtonColor(color);
+                break;
+            case "math":
+                HomepageActivity.MathButton.setButtonColor(color);
+                break;
+            case "geography":
+                HomepageActivity.GeographyButton.setButtonColor(color);
+                break;
+            case "history":
+                HomepageActivity.HistoryButton.setButtonColor(color);
+                break;
+            case "technology":
+                HomepageActivity.TechnologyButton.setButtonColor(color);
+                break;
+            default:
+                break;
         }
     }
 
