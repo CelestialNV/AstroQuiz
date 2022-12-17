@@ -200,13 +200,13 @@
         <item>Standing</item>
         <item>Sitting</item>
         <item>Lying</item>
-        <item>None</item>
+        <item>None of the above</item>
 
         <item>A piece of ice is dropped in a vesel containing kerosene. When ice melts, the level of kerosene will</item>
         <item>Fall</item>
         <item>Rise</item>
         <item>Remain</item>
-        <item>None</item>
+        <item>None of the above</item>
 
         <item>Young\'s modulus is the property of</item>
         <item>Solid</item>
@@ -218,13 +218,13 @@
         <item>Power</item>
         <item>Momentum</item>
         <item>Energy</item>
-        <item>WorkB</item>
+        <item>Work</item>
 
         <item>Which one of the following has the highest value of specific heat ?</item>
         <item>Water</item>
         <item>Methane</item>
-        <item>KeroseneD</item>
-        <item>AlcoholB</item>
+        <item>Kerosene</item>
+        <item>Alcohol</item>
 
     </string-array>
 
