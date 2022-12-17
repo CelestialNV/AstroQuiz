@@ -196,35 +196,35 @@
     </string-array>
 
     <string-array name="physics_question">
-        <item>Electric current may be expressed in which one of the following units?</item>
-        <item>coulombs/second</item>
-        <item>joules/coulomb</item>
-        <item>coulombs/volt</item>
-        <item>ohms/second</item>
+        <item>A man presses more weight on earth at :</item>
+        <item>Standing</item>
+        <item>Sitting</item>
+        <item>Lying</item>
+        <item>None</item>
 
-        <item>The work done by a friction force is:</item>
-        <item>always negative</item>
-        <item>always positive</item>
-        <item>always zero</item>
-        <item>none</item>
+        <item>A piece of ice is dropped in a vesel containing kerosene. When ice melts, the level of kerosene will</item>
+        <item>Fall</item>
+        <item>Rise</item>
+        <item>Remain</item>
+        <item>None</item>
 
-        <item>As defined in physics, work is: </item>
-        <item>a scalar quantity</item>
-        <item>always a positive quantity</item>
-        <item>a vector quantity</item>
-        <item>always zero</item>
+        <item>Young\'s modulus is the property of</item>
+        <item>Solid</item>
+        <item>Solid and Liquid</item>
+        <item>Gas</item>
+        <item>Liquid</item>
 
-        <item>In physics, a radian per second is a unit of:</item>
-        <item>angular velocity</item>
-        <item>angular displacement</item>
-        <item>angular acceleration</item>
-        <item>angular momentum.</item>
+        <item>Product of Force and Velocity is called:</item>
+        <item>Power</item>
+        <item>Momentum</item>
+        <item>Energy</item>
+        <item>WorkB</item>
 
-        <item>If the resultant force acting on a body of constant mass is zero, the body s momentum is:</item>
-        <item>constant</item>
-        <item>always zero</item>
-        <item>decreasing</item>
-        <item>increasing</item>
+        <item>Which one of the following has the highest value of specific heat ?</item>
+        <item>Water</item>
+        <item>Methane</item>
+        <item>KeroseneD</item>
+        <item>AlcoholB</item>
 
     </string-array>
 
